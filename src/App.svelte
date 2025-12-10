@@ -216,7 +216,7 @@
         { id: 210, question: "cur", answer: "waarom" },
         { id: 211, question: "quoque", answer: "ook" },
         { id: 212, question: "sed", answer: "maar" },
-        { id: 213, question: "neque neque", answer: "noch noch" },
+        { id: 213, question: "neque…neque", answer: "noch noch" },
         { id: 214, question: "audire", answer: "horen" },
         { id: 215, question: "omnis", answer: "geheel" },
         // II
@@ -230,7 +230,7 @@
         { id: 223, question: "navis", answer: "schip" },
         { id: 224, question: "mare", answer: "zee" },
         { id: 225, question: "stare", answer: "staan" },
-        // III
+        //// III
         //{ id: 226, question: "etiam", answer: "ook" },
         //{ id: 227, question: "nam", answer: "want" },
         //{ id: 228, question: "servus", answer: "slaaf" },
