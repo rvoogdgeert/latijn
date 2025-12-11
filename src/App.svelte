@@ -244,7 +244,7 @@
         // IV
         { id: 236, question: "iam", answer: "al" },
         { id: 237, question: "in +acc", answer: "in" },
-        { id: 238, question: "in +abl", answer: "in" },
+        //{ id: 238, question: "in +abl", answer: "in" },
         { id: 239, question: "ad +acc", answer: "naar" },
         { id: 240, question: "deus", answer: "god" },
         { id: 241, question: "magnus", answer: "groot" },
@@ -255,7 +255,7 @@
         // V
         { id: 246, question: "vocare", answer: "roepen" },
         { id: 247, question: "venire", answer: "komen" },
-        { id: 248, question: "-ne", answer: "achtervoegsel voor vraagzin" },
+        //{ id: 248, question: "-ne", answer: "achtervoegsel voor vraagzin" },
         { id: 249, question: "quis", answer: "wie" },
         { id: 250, question: "vos", answer: "jullie" },
         { id: 251, question: "is, ea, id", answer: "die, deze" },
