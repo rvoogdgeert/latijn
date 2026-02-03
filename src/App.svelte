@@ -277,7 +277,7 @@
         { id: 262, question: "mons", answer: "berg" },
         { id: 263, question: "inter +acc", answer: "tussen" },
         { id: 264, question: "-que", answer: "en" },
-        { id: 265, question: "alii..alii", answer: "sommigen anderen" },
+        { id: 265, question: "alii..alii", answer: "sommigen" },
 
         //// VII
         //{ id: 266, question: "dare", answer: "geven" },
