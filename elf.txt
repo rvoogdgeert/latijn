@@ -1,0 +1,38 @@
+//11A
+"canis, canes",hond
+adesse,"aanwezig zijn"
+"princeps, -cipes","leider"
+exspectare + acc.,"wachten op"
+"multitudo, -dines v", menigte
+dubitare,"aarzelen"
+aurum, goud
+"agmen, agmina o","groep"
+coniungere, samenvoegenverbinden
+ut,zoals
+procedere,"voortgaan"
+"decus, decora o","sieraad"
+arduus,steil
+ferus,"wild"
+campus,"vlakte"
+vastus,uitgestrekt
+transire,"overtrekken"
+nunc ... nunc, nu eens ... dan weer
+"ille, illa, illud","die"
+
+//11B
+ruere,instortenneerstorten
+aqua,water
+ater,"zwart, donker"
+ager,"akker, land"
+diversus,tegengesteldverschillend
+"dux, duces","aanvoerder"
+"ignis, ignes m",vuur
+summus mons, de top van de berg
+malus,slecht
+mala o mv,"het kwaad"
+nec iam, niet meer
+fama,gerucht
+curare,"verzorgen"
+tegere,bedekkenverbergen
+vocare,roepen
+canere,"bezingen"
