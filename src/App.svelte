@@ -218,7 +218,7 @@
         { id: 211, question: "dubitare", answer: "aarzelen" },
         { id: 212, question: "aurum", answer: "goud" },
         { id: 213, question: "agmen, agmina o", answer: "groep" },
-        { id: 214, question: "coniungere", answer: "samenvoegenverbinden" },
+        { id: 214, question: "coniungere", answer: "samenvoegen" },
         //{ id: 215, question: "ut", answer: "zoals" },
         //{ id: 216, question: "procedere", answer: "voortgaan" },
         //{ id: 217, question: "decus, decora o", answer: "sieraad" },
