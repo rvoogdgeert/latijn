@@ -227,15 +227,15 @@
         //{ id: 220, question: "campus", answer: "vlakte" },
         //{ id: 221, question: "vastus", answer: "uitgestrekt" },
         //{ id: 222, question: "transire", answer: "overtrekken" },
-        //{ id: 223, question: "nunc ... nunc", answer: "nu eens ... dan weer" },
+        //{ id: 223, question: "nunc ... nunc", answer: "nu eens dan weer" },
         //{ id: 224, question: "ille, illa, illud", answer: "die" },
 
         ////11B
-        //{ id: 225, question: "ruere", answer: "instortenneerstorten" },
+        //{ id: 225, question: "ruere", answer: "instorten" },
         //{ id: 226, question: "aqua", answer: "water" },
         //{ id: 227, question: "ater", answer: "zwart" },
         //{ id: 228, question: "ager", answer: "akker" },
-        //{ id: 229, question: "diversus", answer: "tegengesteldverschillend" },
+        //{ id: 229, question: "diversus", answer: "tegengesteld" },
         //{ id: 230, question: "dux, duces", answer: "aanvoerder" },
         //{ id: 231, question: "ignis, ignes m", answer: "vuur" },
         //{ id: 232, question: "summus mons", answer: "de top van de berg" },
@@ -244,7 +244,7 @@
         { id: 235, question: "nec iam", answer: "niet meer" },
         { id: 236, question: "fama", answer: "gerucht" },
         { id: 237, question: "curare", answer: "verzorgen" },
-        { id: 238, question: "tegere", answer: "bedekkenverbergen" },
+        { id: 238, question: "tegere", answer: "bedekken" },
         { id: 239, question: "vocare", answer: "roepen" },
         { id: 240, question: "canere", answer: "bezingen" },
         
