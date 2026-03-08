@@ -317,10 +317,10 @@
         //{ id: 264, question: "-que", answer: "en"},
         //{ id: 265, question: "alii..alii",answer: "sommigen anderen" },
         // VII//
-        { id: 266, question: "dare", answer: "gven" },
+        { id: 266, question: "dare", answer: "geven" },
         { id: 267, question: "movere", answer: "bewegen" },
         { id: 268, question: "post +acc", answe: "na" },
-        { id: 269, question: "nox", answer: "naht" },
+        { id: 269, question: "nox", answer: "nacht" },
         { id: 270, question: "multus", answer: "veel" },
         { id: 271, question: "nos", answer: "wij" },
         { id: 272, question: "habere", answer: "hebben" },
