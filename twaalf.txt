@@ -1,0 +1,60 @@
+// 12A
+"auris, aures v",oor
+totus,"geheel, heel"
+fabula,verhaal
+"litus, litora o","kust, strand"
+quodam die,op (een) zekere dag
+tunc,"toen, dan; vervolgens"
+accidi pf,← accidere
+accidere,gebeuren
+"nemo, neminem",niemand
+cognovi pf,← cognoscere
+e / ex + nv?,uit; sinds + abl.
+officium,plicht; taak
+neglegere,verwaarlozen
+"libido, libidines v","hartstocht, passie"
+"hiems, hiemes v",winter
+pius,plichtsgetrouw; vroom
+"honor, honores m",eer
+"Iuppiter, Iovem",Jupiter
+pro + nv?,voor + abl.
+ardere,branden; in brand staan
+"cruor, cruorem m",bloed
+"imago, imagines v","beeld, nabootsing"
+supplex,smekend
+sustuli pf,← tollere
+quia,omdat
+quod,omdat
+nisi,"als niet, behalve"
+ut + pf,zodra + plqpf
+dum + praes.,terwijl
+
+// 12B
+si,"als, indien"
+vere bijw.,"echt, werkelijk"
+horrere + acc.,huiveren voor
+cum voegwoord,"wanneer, toen"
+postquam + pf,nadat + plqpf
+advenire,aankomen
+adveni pf, advenire
+bene bijw.,goed
+excepi pf, excipere
+fines m mv,gebied
+"sedes, sedes v",zetel; woonplaats
+praeclarus,zeer mooi
+condere,stichten
+potui pf, posse
+"iste, ista, istud","die, dat"
+repellere,terugdrijven; afwijzen
+ac,"en, en ook"
+dominus,heer (des huizes); meester
+accepi pf, accipere
+sicut,zoals
+"comes, comites",metgezel; begeleider
+"munus, munera o",geschenk
+moenia o mv Groep 3,(stads)muren
+verti pf, vertere
+vertere,"draaien, wenden"
+vidi pf, videre
+admonere,waarschuwen; aansporen
+iussi pf, iubere
