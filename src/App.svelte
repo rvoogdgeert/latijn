@@ -279,7 +279,7 @@
         { id: 271, question: "vere bijw.", answer: "echt" },
         { id: 272, question: "horrere + acc.", answer: "huiveren voor" },
         { id: 273, question: "cum voegwoord", answer: "wanneer" },
-        { id: 274, question: "postquam + pf", answer: "nadat + plqpf" },
+        { id: 274, question: "postquam + pf", answer: "nadat" },
         { id: 275, question: "advenire", answer: "aankomen" },
         { id: 277, question: "bene bijw.", answer: "goed" },
         { id: 279, question: "fines m mv", answer: "gebied" },
