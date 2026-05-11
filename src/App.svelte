@@ -316,40 +316,19 @@
         //{ id: 310, question: "timor, timores m", answer: "angst" },
         //{ id: 313, question: "amicus", answer: "vriend" },
 
-        //13B
-        //{ id: 314, question: "impius", answer: "goddeloos" },
-        //{ id: 315, question: "consilium", answer: "plan" },
-        //{ id: 317, question: "deferre", answer: "overbrengen" },
-        //{ id: 318, question: "ultro", answer: "uit eigen beweging" },
-        //{ id: 319, question: "perfidus", answer: "onbetrouwbaar" },
-        //{ id: 320, question: "decedere", answer: "weggaan" },
-        //{ id: 321, question: "fugere, -io", answer: "vluchten" },
-        //{ id: 322, question: "certus", answer: "zeker" },
-        //{ id: 323, question: "orare per + nv?", answer: "smeken" },
-        //{ id: 324, question: "omittere", answer: "opgeven" },
-        //{ id: 325, question: "propter", answer: "wegens" },
-        //{ id: 326, question: "tyrannus", answer: "tiran" },
-        //{ id: 327, question: "odi", answer: "ik haat" },
-        //{ id: 328, question: "inimicus", answer: "vijand" },
-        //{ id: 330, question: "perire", answer: "omkomen" },
-        //{ id: 331, question: "ne…quidem", answer: "zelfs niet" },
-        //{ id: 332, question: "infans, infantes", answer: "kind" },
-        //{ id: 333, question: "mihi est + nom.", answer: "ik heb" },
-
-        //13D
-        { id: 335, question: "erigere", answer: "oprichten" },
-        { id: 337, question: "olim", answer: "eens" },
-        { id: 339, question: "recipere, -io", answer: "krijgen" },
-        { id: 340, question: "saepe", answer: "vaak" },
-        { id: 341, question: "anima", answer: "adem" },
-        { id: 342, question: "fortuna", answer: "lot" },
-        { id: 344, question: "peragere", answer: "voltooien" },
-        { id: 346, question: "statuere", answer: "plaatsen" },
-        { id: 347, question: "beatus", answer: "gelukkig" },
-        { id: 348, question: "iuvat me", answer: "het doet me plezier" },
-        { id: 349, question: "sub", answer: "onder" },
-        { id: 350, question: "ascendere", answer: "beklimmen" },
-        { id: 351, question: "adeo", answer: "zo" },        
+        //13B       //{ i 314, question: "impius", answer: "goddeloos" },       //{ i 315, question: "consilium", answer: "plan" },       //{ i 317, question: "deferre", answer: "overbrenge,       //{ i 318, question: "ultro", answer: "uit eigen ben },       //{ i 319, question: "perfidus", answer: "onbetrouw",       //{ i 320, question: "decedere", answer: "weggaan"        //{ i 321, question: "fugere, -io", answer: "vlucht}       //{ i 322, question: "certus", answer: "zek" },
+        //{ i 323, question: "orare per + nv?", ansr: "sm"       //{ id: 324, question: "omittere", answer: "oeven"        //{ id: 325, question: "propter", answer: "wens" },       //{ id: 326, question: "tyrannus", answer: "tan" },       //{ id: 327, question: "odi", answer: "ik haa },
+        //{ id: 328, question: "inimicus", answer: "vand" }        //{ id: 330, question: "perire", answer: "omken" },       //{ id: 331, question: "ne…quidem", answer: "lfs ni}       //{ id: 332, question: "infans, infantes", aner: "k         //{ id: 333, question: "mihi est + nom.", answer: "ik"        //13D
+        //{ id: 335, question: "erigere", answer: "oprichten"        //{ id: 337, question: "olim", answer: "eens" },
+        //{ id: 339, question: "recipere, -io", answer: "krij         //{ id: 340, question: "saepe", answer: "vaak" },
+        //{ id: 341, question: "anima", answer: "adem" },
+        //{ id: 342, question: "fortuna", answer: "lot" },
+        //{ id: 344, question: "peragere", answer: "voltooien
+        //{ id: 346, question: "statuere", answer: "plaatsen" }        //{ id: 347, question: "beatus", answer: "gelukkig" },
+        //{ id: 348, question: "iuvat me", answer: "het doet mel},
+        //{ id: 349, question: "sub", answer: "onder" },
+        //{ id: 350, question: "ascendere", answer: "beklimmen",
+        //{ id: 351, question: "adeo", answer: "zo" },        
         
         //// I
         //{ id: 206, question: "esse", answer: "zijn" },
@@ -359,13 +338,11 @@
         //{ id: 210, question: "cur", answer: "waarom" },
         //{ id: 211, question: "quoque", answer: "ook" },
         //{ id: 212, question: "sed", answer: "maar" },
-        //{ id: 213, question: "neque…neque", answer: "noch noch" },
-        //{ id: 214, question: "audire", answer: "horen" },
+        //{ id: 213, question: "neque…neque", answer: "noch noch" }        //{ id: 214, question: "audire", answer: "horen" },
         //{ id: 215, question: "omnis", answer: "geheel" },
 
         //// II
-        //{ id: 216, question: "omnes, omnia", answer: "allen, alles" },
-        //{ id: 217, question: "ubi", answer: "waar" },
+        //{ id: 216, question: "omnes, omnia", answer: "allen, alle        //{ id: 217, question: "ubi", answer: "waar" },
         //{ id: 218, question: "femina", answer: "vrouw" },
         //{ id: 219, question: "autem", answer: "echter" },
         //{ id: 220, question: "tum", answer: "dan" },
@@ -400,7 +377,7 @@
         //// V
         //{ id: 246, question: "vocare", answer: "roepen" },
         //{ id: 247, question: "venire", answer: "komen" },
-        ////{ id: 248, question: "-ne", answer: "achtervoegsel voor vraagzin" },
+        ////{ id: 248, question: "-ne", answer: "achtervoegsel voorzin" },
         //{ id: 249, question: "quis", answer: "wie" },
         //{ id: 250, question: "vos", answer: "jullie" },
         //{ id: 251, question: "is, ea, id", answer: "die, deze" },
@@ -418,7 +395,7 @@
         //{ id: 262, question: "mons", answer: "berg" },
         //{ id: 263, question: "inter +acc", answer: "tussen" },
         //{ id: 264, question: "-que", answer: "en"},
-        //{ id: 265, question: "alii..alii",answer: "sommigen anderen" },
+        //{ id: 265, question: "alii..alii",answer: "sommigen anderen
         //// VII//
         //{ id: 266, question: "dare", answer: "geven" },
         //{ id: 267, question: "movere", answer: "bewegen" },
@@ -429,8 +406,7 @@
         //{ id: 272, question: "habere", answer: "hebben" },
         //{ id: 273, question: "pater", answer: "vader" },
         //{ id: 274, question: "sic", answer: "zo" },
-        //{ id: 275, question: "cognoscere", answer: "leren kennen" },
-        //// VIII//
+        //{ id: 275, question: "cognoscere", answer: "leren kennen" }        //// VIII//
         //{ id: 276, question: "cupere", answer: "willen" },
         //{ id: 277, question: "tamen", answer: "toch" },
         //{ id: 278, question: "capere", answer: "innemen" },
@@ -451,21 +427,21 @@
         //{ id: 292, question: "mors", answer: "(de) dood" },
         //{ id: 293, question: "modus", answer: "manier" },
         //{ id: 294, question: "tandem", answer: "eindelijk" },
-        //{ id: 295, question: "ille, illa, illud", answer: "hij, zij, het" },
+        //{ id: 295, question: "ille, illa, illud", answer: "hij, zijt" },
         //// X
-        //{ id: 296, question: "atque, ac", answer: "en" },
-        //{ id: 297, question: "bonus", answer: "goed" },
-        //{ id: 298, question: "unus", answer: "één" },
-        //{ id: 299, question: "tenere", answer: "vasthouden" },
-        //{ id: 300, question: "meus", answer: "mijn" },
-        //{ id: 301, question: "os", answer: "mond" },
-        //{ id: 302, question: "hic", answer: "hier" },
-        //{ id: 303, question: "ipse, ipsa, ipsum", answer: "zelf" },
-        //{ id: 304, question: "suus", answer: "zijn, haar, hun" },
-        //{ id: 305, question: "noster", answer: "ons, onze" },
+        { id: 296, question: "atque, ac", answer: "en" },
+        { id: 297, question: "bonus", answer: "goed" },
+        { id: 298, question: "unus", answer: "een" },
+        { id: 299, question: "tenere", answer: "vasthouden" },
+        { id: 300, question: "meus", answer: "mijn" },
+        { id: 301, question: "os", answer: "mond" },
+        { id: 302, question: "hic", answer: "hier" },
+        { id: 303, question: "ipse, ipsa, ipsum", answer: "zelf" },
+        { id: 304, question: "suus", answer: "zijn" },
+        { id: 305, question: "noster", answer: "ons, onze" },
         //// XI
         //{ id: 306, question: "nullus", answer: "geen" },
-        //{ id: 307, question: "hic, haec, hoc", answer: "hij, zij, het" },
+        //{ id: 307, question: "hic, haec, hoc", answer: "hij"},
         //{ id: 308, question: "vester", answer: "jullie" },
         //{ id: 309, question: "longus", answer: "lang" },
         //{ id: 310, question: "vale", answer: "vaarwel" },
@@ -493,9 +469,9 @@
         //{ id: 330, question: "dum", answer: "terwijl" },
         //{ id: 331, question: "si", answer: "als" },
         //{ id: 332, question: "postquam", answer: "nadat" },
-        //{ id: 333, question: "iste, ista, istud", answer: "hij, zij, het" },
+        //{ id: 333, question: "iste, ista, istud", answer: "hij, zij, t" },
         //{ id: 334, question: "sicut", answer: "zoals" },
-        //{ id: 335, question: "qui, quae, quod", answer: "die, dat, wie)" },
+        //{ id: 335, question: "qui, quae, quod", answer: "die, dat, wi" },
         ];
 
     // Create a shuffled version of the flashcards
@@ -505,7 +481,7 @@
     function shuffleArray(array: any) {
         // Create a copy of the original array to avoid modifying it
         const arrayCopy = [...array];
-        // Start from the last element and swap it with a randomly selected element
+        // Start from the last element and swap it with a randomly seleed element
         for (let i = arrayCopy.length - 1; i > 0; i--) {
             // Pick a random index from 0 to i
             const j = Math.floor(Math.random() * (i + 1));
