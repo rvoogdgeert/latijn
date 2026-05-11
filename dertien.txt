@@ -1,63 +1,63 @@
 //13A
 tetigi,tangere
 tangere,aanraken
-"qui, quae, quod","die, dat (betrekkelijk voornaamwoord)"
+"qui, quae, quod", die
 pendere,hangen
 invasi,invadere
-"respicere, -io","omkijken (naar), zich bekommeren om"
-clarus,"helder, beroemd"
+"respicere, -io","omkijken naar"
+clarus,helder
 dimittere,wegzenden
-aura,"briesje, lucht"
-"qui, quae, quod",welk(e)? (vragend voornaamwoord)
-"cupido, -dines v","begeerte, verlangen"
-licet mihi,"het is mij geoorloofd, het staat mij vrij"
+aura,briesje
+"qui, quae, quod",welk
+"cupido, -dines v",begeerte
+licet mihi,"het is mij geoorloofd"
 obstare,in de weg staan
-"timor, timores m","angst, vrees"
+"timor, timores m",angst
 steti,stare
 haesi,haerere
 amicus,vriend
 
 // 13B
 impius,goddeloos
-consilium,"plan, besluit"
+consilium, plan
 detuli,deferre
 deferre,overbrengen
-ultro,uit eigen beweging
-perfidus,"trouweloos, onbetrouwbaar"
+ultro,"uit eigen beweging"
+perfidus,onbetrouwbaar
 decedere,weggaan
 "fugere, -io",vluchten
-certus,"zeker, bepaald"
-orare per + nv?,smeken bij
-omittere,"opgeven, laten varen, loslaten"
+certus,zeker
+orare per + nv?,smeken
+omittere,opgeven
 propter + nv?,wegens
 tyrannus,tiran
-odi,ik haat
-inimicus,"vijand, vijandig"
+odi,"ik haat"
+inimicus,vijand
 perii,perire
-perire,"te gronde gaan, omkomen"
-ne ... quidem,zelfs ... niet
-"infans, infantes","klein kind, baby"
-mihi est + nom.,ik heb
+perire,omkomen
+ne ... quidem,"zelfs niet"
+"infans, infantes",kind
+mihi est + nom.,"ik heb"
 
 //13D
 erexi,erigere
 erigere,oprichten
 posui,ponere
-olim,"eens, ooit"
+olim,eens
 recepi,recipere
-"recipere, -io","krijgen, ontvangen"
+"recipere, -io",krijgen
 saepe,vaak
-anima,"adem, leven, ziel"
+anima,adem
 fortuna,lot
 peregi,peragere
 peragere,voltooien
 statui,statuere
-statuere,"plaatsen, stichten"
-beatus,"gelukkig, welvarend"
-iuvat me,het doet me plezier
+statuere,plaatsen
+beatus,gelukkig
+iuvat me,"het doet me plezier"
 sub,onder
 ascendere,beklimmen
-adeo,zó
+adeo,zo
 quaesivi,quaerere
 repperi,reperire
 credidi,credere
