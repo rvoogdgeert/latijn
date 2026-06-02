@@ -523,9 +523,9 @@
         { id: 330, question: "dum", answer: "terwijl" },
         { id: 331, question: "si", answer: "als" },
         { id: 332, question: "postquam", answer: "nadat" },
-        { id: 333, question: "iste, ista, istud", answer: "hij, zij, het" },
+        { id: 333, question: "iste, ista, istud", answer: "hij zij het" },
         { id: 334, question: "sicut", answer: "zoals" },
-        { id: 335, question: "qui, quae, quod", answer: "die, dat, wie" },
+        { id: 335, question: "qui, quae, quod", answer: "die dat wie" },
         ];
 
     // Create a shuffled version of the flashcards
