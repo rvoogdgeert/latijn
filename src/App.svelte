@@ -358,29 +358,29 @@
         //{ id: 351, question: "adeo", answer: "zo" },
 
         //// 14B
-        { id: 316, question: "multum", answer: "zeer" },
-        { id: 317, question: "gaudere", answer: "zich verheugen" },
-        { id: 318, question: "descendere", answer: "afdalen" },
-        { id: 319, question: "ne (bij imperatief)", answer: "niet" },
+        //{ id: 316, question: "multum", answer: "zeer" },
+        //{ id: 317, question: "gaudere", answer: "zich verheugen" },
+        //{ id: 318, question: "descendere", answer: "afdalen" },
+        //{ id: 319, question: "ne (bij imperatief)", answer: "niet" },
         //// 14D
-        { id: 320, question: "egregius", answer: "uitstekend" },
-        { id: 321, question: "digitus", answer: "vinger" },
-        { id: 322, question: "demonstrare", answer: "aanwijzen" },
-        { id: 323, question: "proles", answer: "geslacht" },
-        { id: 324, question: "futurus", answer: "toekomstig" },
-        { id: 325, question: "ostendere", answer: "tonen" },
-        { id: 326, question: "superbus", answer: "trots" },
-        //{ id: 327, question: "consul", answer: "consul" },
-        //{ id: 328, question: "divus", answer: "goddelijk" },
-        //{ id: 329, question: "melius", answer: "beter" },
-        //{ id: 330, question: "statua", answer: "standbeeld" },
-        //{ id: 331, question: "ars, artes", answer: "kunst" },
-        //{ id: 332, question: "imperium", answer: "macht" },
-        //{ id: 333, question: "pax, paces", answer: "vrede" },
-        //{ id: 334, question: "aequus", answer: "rechtvaardig" },
-        //{ id: 335, question: "imponere", answer: "leggen op" },
-        //{ id: 336, question: "parcere", answer: "sparen" },
-        //{ id: 337, question: "redire", answer: "teruggaan" },
+        //{ id: 320, question: "egregius", answer: "uitstekend" },
+        //{ id: 321, question: "digitus", answer: "vinger" },
+        //{ id: 322, question: "demonstrare", answer: "aanwijzen" },
+        //{ id: 323, question: "proles", answer: "geslacht" },
+        //{ id: 324, question: "futurus", answer: "toekomstig" },
+        //{ id: 325, question: "ostendere", answer: "tonen" },
+        //{ id: 326, question: "superbus", answer: "trots" },
+        { id: 327, question: "consul", answer: "consul" },
+        { id: 328, question: "divus", answer: "goddelijk" },
+        { id: 329, question: "melius", answer: "beter" },
+        { id: 330, question: "statua", answer: "standbeeld" },
+        { id: 331, question: "ars, artes", answer: "kunst" },
+        { id: 332, question: "imperium", answer: "macht" },
+        { id: 333, question: "pax, paces", answer: "vrede" },
+        { id: 334, question: "aequus", answer: "rechtvaardig" },
+        { id: 335, question: "imponere", answer: "leggen op" },
+        { id: 336, question: "parcere", answer: "sparen" },
+        { id: 337, question: "redire", answer: "teruggaan" },
 
         //// I
         //{ id: 206, question: "esse", answer: "zijn" },
@@ -502,6 +502,8 @@
         //{ id: 313, question: "adhuc", answer: "nog" },
         //{ id: 314, question: "num", answer: "toch zeker niet" },
         //{ id: 315, question: "semper", answer: "altijd" },
+
+        
         //// XII
         //{ id: 316, question: "duo", answer: "twee" },
         //{ id: 317, question: "causa", answer: "reden" },
@@ -521,9 +523,9 @@
         //{ id: 330, question: "dum", answer: "terwijl" },
         //{ id: 331, question: "si", answer: "als" },
         //{ id: 332, question: "postquam", answer: "nadat" },
-        //{ id: 333, question: "iste, ista, istud", answer: "hij, zij, t" },
+        //{ id: 333, question: "iste, ista, istud", answer: "hij, zij, het" },
         //{ id: 334, question: "sicut", answer: "zoals" },
-        //{ id: 335, question: "qui, quae, quod", answer: "die, dat, wi" },
+        //{ id: 335, question: "qui, quae, quod", answer: "die, dat, wie" },
         ];
 
     // Create a shuffled version of the flashcards
