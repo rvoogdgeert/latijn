@@ -505,27 +505,27 @@
 
         
         // XII
-        { id: 316, question: "duo", answer: "twee" },
-        { id: 317, question: "causa", answer: "reden" },
-        { id: 318, question: "adesse", answer: "aanwezig zijn" },
-        { id: 319, question: "ut", answer: "zoals" },
-        { id: 320, question: "aqua", answer: "water" },
-        { id: 321, question: "dux", answer: "leider" },
-        { id: 322, question: "malus", answer: "slecht" },
-        { id: 323, question: "totus", answer: "geheel" },
-        { id: 324, question: "tunc", answer: "dan" },
-        { id: 325, question: "nemo", answer: "niemand" },
-        //// XIII
-        //{ id: 326, question: "pro +abl", answer: "voor" },
-        //{ id: 327, question: "quia", answer: "omdat" },
-        //{ id: 328, question: "quod", answer: "omdat" },
-        //{ id: 329, question: "nisi", answer: "als niet" },
-        //{ id: 330, question: "dum", answer: "terwijl" },
-        //{ id: 331, question: "si", answer: "als" },
-        //{ id: 332, question: "postquam", answer: "nadat" },
-        //{ id: 333, question: "iste, ista, istud", answer: "hij zij het" },
-        //{ id: 334, question: "sicut", answer: "zoals" },
-        //{ id: 335, question: "qui, quae, quod", answer: "die dat wie" },
+        //{ id: 316, question: "duo", answer: "twee" },
+        //{ id: 317, question: "causa", answer: "reden" },
+        //{ id: 318, question: "adesse", answer: "aanwezig zijn" },
+        //{ id: 319, question: "ut", answer: "zoals" },
+        //{ id: 320, question: "aqua", answer: "water" },
+        //{ id: 321, question: "dux", answer: "leider" },
+        //{ id: 322, question: "malus", answer: "slecht" },
+        //{ id: 323, question: "totus", answer: "geheel" },
+        //{ id: 324, question: "tunc", answer: "dan" },
+        //{ id: 325, question: "nemo", answer: "niemand" },
+        // XIII
+        { id: 326, question: "pro +abl", answer: "voor" },
+        { id: 327, question: "quia", answer: "omdat" },
+        { id: 328, question: "quod", answer: "omdat" },
+        { id: 329, question: "nisi", answer: "als niet" },
+        { id: 330, question: "dum", answer: "terwijl" },
+        { id: 331, question: "si", answer: "als" },
+        { id: 332, question: "postquam", answer: "nadat" },
+        { id: 333, question: "iste, ista, istud", answer: "hij zij het" },
+        { id: 334, question: "sicut", answer: "zoals" },
+        { id: 335, question: "qui, quae, quod", answer: "die dat wie" },
         ];
 
     // Create a shuffled version of the flashcards
