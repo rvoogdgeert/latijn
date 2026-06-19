@@ -437,7 +437,7 @@
         //{ id: 248, question: "-ne", answer: "achtervoegsel voorzin" },
         { id: 249, question: "quis", answer: "wie" },
         { id: 250, question: "vos", answer: "jullie" },
-        { id: 251, question: "is, ea, id", answer: "die, deze" },
+        { id: 251, question: "is, ea, id", answer: "die deze" },
         { id: 252, question: "tu", answer: "jij" },
         { id: 253, question: "ego", answer: "ik" },
         { id: 254, question: "homo", answer: "man" },
