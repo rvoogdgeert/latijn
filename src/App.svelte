@@ -391,7 +391,7 @@
         { id: 210, question: "cur", answer: "waarom" },
         { id: 211, question: "quoque", answer: "ook" },
         { id: 212, question: "sed", answer: "maar" },
-        { id: 213, question: "neque…neque", answer: "noch noch" }
+        { id: 213, question: "neque…neque", answer: "noch noch" },
         { id: 214, question: "audire", answer: "horen" },
         { id: 215, question: "omnis", answer: "geheel" },
 
@@ -453,7 +453,7 @@
         //{ id: 262, question: "mons", answer: "berg" },
         //{ id: 263, question: "inter +acc", answer: "tussen" },
         //{ id: 264, question: "-que", answer: "en"},
-        //{ id: 265, question: "alii..alii",answer: "sommigen anderen
+        //{ id: 265, question: "alii..alii",answer: "sommigen anderen"},
         
         //// VII
         //{ id: 266, question: "dare", answer: "geven" },
@@ -486,10 +486,10 @@
         //{ id: 289, question: "miles", answer: "soldaat" },
         //{ id: 290, question: "ecce", answer: "kijk" },
         //{ id: 291, question: "sine +abl", answer: "zonder" },
-        //{ id: 292, question: "mors", answer: "(de) dood" },
+        //{ id: 292, question: "mors", answer: "dood" },
         //{ id: 293, question: "modus", answer: "manier" },
         //{ id: 294, question: "tandem", answer: "eindelijk" },
-        //{ id: 295, question: "ille, illa, illud", answer: "hij, zijt" },
+        //{ id: 295, question: "ille, illa, illud", answer: "hij zij het" },
 
         //// X
         //{ id: 296, question: "atque, ac", answer: "en" },
@@ -501,7 +501,7 @@
         //{ id: 302, question: "hic", answer: "hier" },
         //{ id: 303, question: "ipse, ipsa, ipsum", answer: "zelf" },
         //{ id: 304, question: "suus", answer: "zijn" },
-        //{ id: 305, question: "noster", answer: "ons, onze" },
+        //{ id: 305, question: "noster", answer: "ons onze" },
 
         //// XI
         //{ id: 306, question: "nullus", answer: "geen" },
