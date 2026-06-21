@@ -357,11 +357,17 @@
         //{ id: 350, question: "ascendere", answer: "beklimmen" },
         //{ id: 351, question: "adeo", answer: "zo" },
 
-        //// 14B
-        //{ id: 316, question: "multum", answer: "zeer" },
-        //{ id: 317, question: "gaudere", answer: "zich verheugen" },
-        //{ id: 318, question: "descendere", answer: "afdalen" },
-        //{ id: 319, question: "ne (bij imperatief)", answer: "niet" },
+        // 14B + bijwoorden pag. 77
+        { id: 316, question: "multum", answer: "zeer" },
+        { id: 317, question: "gaudere", answer: "zich verheugen" },
+        { id: 318, question: "descendere", answer: "afdalen" },
+        { id: 319, question: "ne (bij imperatief)", answer: "niet" },
+        { id: 320, question: "satis", answer: "voldoende" },
+        { id: 321, question: "vix", answer: "nauwelijks" },
+        { id: 322, question: "subito", answer: "plotseling" },
+        { id: 323, question: "semper", answer: "altijd" },
+        { id: 324, question: "modo", answer: "slechts" },
+        { id: 325, question: "fortasse", answer: "misschien" },
         //// 14D
         //{ id: 320, question: "egregius", answer: "uitstekend" },
         //{ id: 321, question: "digitus", answer: "vinger" },
@@ -527,17 +533,17 @@
         //{ id: 324, question: "tunc", answer: "dan" },
         //{ id: 325, question: "nemo", answer: "niemand" },
 
-        // XIII
-        { id: 326, question: "pro +abl", answer: "voor" },
-        { id: 327, question: "quia", answer: "omdat" },
-        { id: 328, question: "quod", answer: "omdat" },
-        { id: 329, question: "nisi", answer: "als niet" },
-        { id: 330, question: "dum", answer: "terwijl" },
-        { id: 331, question: "si", answer: "als" },
-        { id: 332, question: "postquam", answer: "nadat" },
-        { id: 333, question: "iste, ista, istud", answer: "hij zij het" },
-        { id: 334, question: "sicut", answer: "zoals" },
-        { id: 335, question: "qui, quae, quod", answer: "die dat wie" },
+        //// XIII
+        //{ id: 326, question: "pro +abl", answer: "voor" },
+        //{ id: 327, question: "quia", answer: "omdat" },
+        //{ id: 328, question: "quod", answer: "omdat" },
+        //{ id: 329, question: "nisi", answer: "als niet" },
+        //{ id: 330, question: "dum", answer: "terwijl" },
+        //{ id: 331, question: "si", answer: "als" },
+        //{ id: 332, question: "postquam", answer: "nadat" },
+        //{ id: 333, question: "iste, ista, istud", answer: "hij zij het" },
+        //{ id: 334, question: "sicut", answer: "zoals" },
+        //{ id: 335, question: "qui, quae, quod", answer: "die dat wie" },
 
         ];
 
