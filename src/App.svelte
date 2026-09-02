@@ -369,24 +369,24 @@
         //{ id: 324, question: "modo", answer: "slechts" },
         //{ id: 325, question: "fortasse", answer: "misschien" },
         // 14D
-        { id: 320, question: "egregius", answer: "uitstekend" },
-        { id: 321, question: "digitus", answer: "vinger" },
-        { id: 322, question: "demonstrare", answer: "aanwijzen" },
-        { id: 323, question: "proles", answer: "geslacht" },
-        { id: 324, question: "futurus", answer: "toekomstig" },
-        { id: 325, question: "ostendere", answer: "tonen" },
-        { id: 326, question: "superbus", answer: "trots" },
-        { id: 327, question: "consul", answer: "consul" },
-        { id: 328, question: "divus", answer: "goddelijk" },
-        { id: 329, question: "melius", answer: "beter" },
-        { id: 330, question: "statua", answer: "standbeeld" },
-        { id: 331, question: "ars, artes", answer: "kunst" },
-        { id: 332, question: "imperium", answer: "macht" },
-        { id: 333, question: "pax, paces", answer: "vrede" },
-        { id: 334, question: "aequus", answer: "rechtvaardig" },
-        { id: 335, question: "imponere", answer: "leggen op" },
-        { id: 336, question: "parcere", answer: "sparen" },
-        { id: 337, question: "redire", answer: "teruggaan" },
+        //{ id: 320, question: "egregius", answer: "uitstekend" },
+        //{ id: 321, question: "digitus", answer: "vinger" },
+        //{ id: 322, question: "demonstrare", answer: "aanwijzen" },
+        //{ id: 323, question: "proles", answer: "geslacht" },
+        //{ id: 324, question: "futurus", answer: "toekomstig" },
+        //{ id: 325, question: "ostendere", answer: "tonen" },
+        //{ id: 326, question: "superbus", answer: "trots" },
+        //{ id: 327, question: "consul", answer: "consul" },
+        //{ id: 328, question: "divus", answer: "goddelijk" },
+        //{ id: 329, question: "melius", answer: "beter" },
+        //{ id: 330, question: "statua", answer: "standbeeld" },
+        //{ id: 331, question: "ars, artes", answer: "kunst" },
+        //{ id: 332, question: "imperium", answer: "macht" },
+        //{ id: 333, question: "pax, paces", answer: "vrede" },
+        //{ id: 334, question: "aequus", answer: "rechtvaardig" },
+        //{ id: 335, question: "imponere", answer: "leggen op" },
+        //{ id: 336, question: "parcere", answer: "sparen" },
+        //{ id: 337, question: "redire", answer: "teruggaan" },
 
         //// Onmisbare woordenlijst
         //// I
@@ -545,10 +545,163 @@
         //{ id: 334, question: "sicut", answer: "zoals" },
         //{ id: 335, question: "qui, quae, quod", answer: "die dat wie" },
 
-        ];
+        //// XIV
+        //{ id: 338, question: "licet mihi", answer: "het is mij toegestaan" },
+        //{ id: 339, question: "sub", answer: "onder" },
+        //{ id: 340, question: "pauci", answer: "weinig" },
+        //{ id: 341, question: "vivere", answer: "leven" },
+        //{ id: 342, question: "agere", answer: "brengen" },
+        //{ id: 343, question: "mittere", answer: "sturen" },
+        //{ id: 344, question: "vel", answer: "of" },
+        //{ id: 345, question: "ne", answer: "niet" },
+        
 
-    // Create a shuffled version of the flashcards
-    let shuffledCards = [];
+        //// XV
+        //{ id: 353, question: "populus", answer: "volk" },
+        //{ id: 354, question: "mortuus", answer: "dood" },
+        //{ id: 355, question: "ars", answer: "kunst" },
+        //{ id: 356, question: "imperium", answer: "macht" },
+        //{ id: 357, question: "pax", answer: "vrede" },
+        //{ id: 358, question: "fortuna", answer: "lot" },
+        //{ id: 359, question: "amicus", answer: "vriend" },
+        //{ id: 360, question: "dominus", answer: "meester" },
+        //{ id: 361, question: "accidere", answer: "gebeuren" },
+        //{ id: 362, question: "ignis", answer: "vuur" },
+
+        //// XVI
+        //{ id: 363, question: "princeps", answer: "vorst" },
+        //{ id: 364, question: "gloria", answer: "roem" },
+        //{ id: 365, question: "gens", answer: "volk" },
+        //{ id: 366, question: "genus", answer: "geslacht" },
+        //{ id: 367, question: "hora", answer: "uur" },
+        //{ id: 368, question: "virtus", answer: "moed" },
+        //{ id: 369, question: "arma", answer: "wapens" },
+        //{ id: 370, question: "ponere", answer: "plaatsen" },
+        //{ id: 371, question: "filia", answer: "dochter" },
+        //{ id: 372, question: "corpus", answer: "lichaam" },
+
+        //// XVII
+        //{ id: 373, question: "gladius", answer: "zwaard" },
+        //{ id: 374, question: "vita", answer: "het leven" },
+        //{ id: 375, question: "ara", answer: "altaar" },
+        //{ id: 346, question: "tempus", answer: "tijd" },
+        //{ id: 347, question: "narrare", answer: "vertellen" },
+        //{ id: 348, question: "fatum", answer: "lot" },
+        //{ id: 349, question: "pugna", answer: "gevecht" },
+        //{ id: 350, question: "hostis", answer: "vijand" },
+        //{ id: 351, question: "altus", answer: "hoog" },
+        //{ id: 352, question: "coniunx", answer: "echtgenoot" },
+
+        ////// XVIII
+        //{ id: 376, question: "vulnus", answer: "wond" },
+        //{ id: 377, question: "pes", answer: "voet" },
+        //{ id: 378, question: "rex", answer: "koning" },
+        //{ id: 379, question: "trahere", answer: "trekken" },
+        //{ id: 380, question: "nomen", answer: "naam" },
+        //{ id: 381, question: "laetus", answer: "blij" },
+        //{ id: 382, question: "aedificare", answer: "bouwen" },
+        //{ id: 383, question: "accipere", answer: "aannemen" },
+        //{ id: 384, question: "animus", answer: "geest" },
+        //{ id: 385, question: "adire", answer: "gaan naar" },
+
+        //// XIX
+        //{ id: 386, question: "cena", answer: "maaltijd" },
+        //{ id: 387, question: "centum", answer: "honderd" },
+        //{ id: 388, question: "tollere", answer: "oppakken" },
+        //{ id: 389, question: "templum", answer: "tempel" },
+        //{ id: 390, question: "sedere", answer: "zitten" },
+        //{ id: 391, question: "terra", answer: "aarde" },
+        //{ id: 392, question: "regere", answer: "regeren" },
+        //{ id: 393, question: "(ad)iuvare", answer: "helpen" },
+        //{ id: 394, question: "iuvenis", answer: "jongeman" },
+        //{ id: 395, question: "via", answer: "weg" },
+
+        //// XX
+        //{ id: 396, question: "amare", answer: "liefhebben" },
+        //{ id: 397, question: "sol", answer: "zon" },
+        //{ id: 398, question: "ventus", answer: "wind" },
+        //{ id: 399, question: "iubere", answer: "bevelen" },
+        //{ id: 400, question: "cogitare", answer: "denken" },
+        //{ id: 401, question: "clamare", answer: "roepen" },
+        //{ id: 402, question: "currere", answer: "rennen" },
+        //{ id: 403, question: "fugere", answer: "vluchten" },
+        //{ id: 404, question: "senex", answer: "oude man" },
+        //{ id: 405, question: "puer", answer: "jongen" },
+        //{ id: 406, question: "timere", answer: "vrezen" },
+
+        //// XXI
+        //{ id: 407, question: "bellum", answer: "oorlog" },
+        //{ id: 408, question: "eheu, heu", answer: "ach" },
+        //{ id: 409, question: "cadere", answer: "vallen" },
+        //{ id: 410, question: "at", answer: "maar" },
+        //{ id: 411, question: "consistere", answer: "blijven staan" },
+        //{ id: 412, question: "rogare", answer: "vragen" },
+        //{ id: 413, question: "respondere", answer: "antwoorden" },
+        //{ id: 414, question: "iterum", answer: "opnieuw" },
+        //{ id: 415, question: "appropinquare", answer: "naderen" },
+        //{ id: 416, question: "quaerere", answer: "zoeken" },
+
+        //// XXII
+        //{ id: 417, question: "subito", answer: "plotseling" },
+        //{ id: 418, question: "umbra", answer: "schaduw" },
+        //{ id: 419, question: "apparere", answer: "verschijnen" },
+        //{ id: 420, question: "patria", answer: "vaderland" },
+        //{ id: 421, question: "regnum", answer: "koninkrijk" },
+        //{ id: 422, question: "manere", answer: "blijven" },
+        //{ id: 423, question: "lacrimare", answer: "huilen" },
+        //{ id: 424, question: "procul", answer: "ver weg" },
+        //{ id: 425, question: "dormire", answer: "slapen" },
+        //{ id: 426, question: "quo", answer: "waarheen" },
+
+        //// XXIII
+        //{ id: 427, question: "nescire", answer: "niet weten" },
+        //{ id: 428, question: "tectum", answer: "dak" },
+        //{ id: 429, question: "somnus", answer: "slaap" },
+        //{ id: 430, question: "interea", answer: "ondertussen" },
+        //{ id: 431, question: "sentire", answer: "voelen" },
+        //{ id: 432, question: "non iam", answer: "niet meer" },
+        //{ id: 433, question: "nubes", answer: "wolk" },
+        //{ id: 434, question: "statim", answer: "meteen" },
+        //{ id: 435, question: "unda", answer: "golf" },
+
+        //// XXIV
+        //{ id: 436, question: "caelum", answer: "hemel" },
+        //{ id: 437, question: "puella", answer: "meisje" },
+        //{ id: 438, question: "circum", answer: "rondom" },
+        //{ id: 439, question: "huc", answer: "hierheen" },
+        //{ id: 440, question: "fortasse", answer: "misschien" },
+        //{ id: 441, question: "regina", answer: "koningin" },
+        //{ id: 442, question: "deinde", answer: "vervolgens" },
+        //{ id: 443, question: "relinquere", answer: "verlaten" },
+        //{ id: 444, question: "ante +acc", answer: "voor" },
+        //{ id: 445, question: "parare", answer: "klaarmaken" },
+
+        //// XXV
+        //{ id: 446, question: "donum", answer: "cadeau" },
+        //{ id: 447, question: "forma", answer: "vorm" },
+        //{ id: 448, question: "cor", answer: "hart" },
+        //{ id: 449, question: "intrare", answer: "binnengaan" },
+        //{ id: 450, question: "sedes", answer: "zetel" },
+        //{ id: 451, question: "tegere", answer: "bedekken" },
+        //{ id: 452, question: "ubique", answer: "overal" },
+        //{ id: 453, question: "hospes", answer: "gast" },
+        //{ id: 454, question: "vinum", answer: "wijn" },
+        //{ id: 455, question: "memoria", answer: "herinnering" },
+
+        //// XXVI
+        //{ id: 456, question: "carmen", answer: "lied" },
+        //{ id: 457, question: "lumen", answer: "licht" },
+        //{ id: 458, question: "bibere", answer: "drinken" },
+        //{ id: 459, question: "sermo", answer: "gesprek" },
+        //{ id: 460, question: "postremo", answer: "tenslotte" },
+        //{ id: 461, question: "oculus", answer: "oog" },
+        //{ id: 462, question: "incipere", answer: "beginnen" },
+        //{ id: 463, question: "dolor", answer: "verdriet" },
+        //{ id: 464, question: "vix", answer: "bijna niet" },
+        //{ id: 465, question: "annus", answer: "jaar" },
+
+        //// XXVIII
+        
 
     // Fisher-Yates shuffle algorithm function
     function shuffleArray(array: any) {
@@ -578,6 +731,21 @@
     // Function to go to the next card
     function nextCard() {
         if (currentCardIndex < shuffledCards.length - 1) {
+        //{ id: 466, question: "nondum", answer: "nog niet" },
+        //{ id: 467, question: "itaque", answer: "dus" },
+        //{ id: 468, question: "equus", answer: "paard" },
+        //{ id: 469, question: "clam", answer: "in het geheim" },
+        //{ id: 470, question: "ora", answer: "kust" },
+        //{ id: 471, question: "navigare", answer: "varen" },
+        //{ id: 472, question: "murus", answer: "muur" },
+        //{ id: 473, question: "castra", answer: "legerkamp" },
+        //{ id: 474, question: "aperire", answer: "openen" },
+        //{ id: 475, question: "flamma", answer: "vlam" },
+
+        ];
+
+    // Create a shuffled version of the flashcards
+    let shuffledCards = [];
             currentCardIndex++;
         }
     }
