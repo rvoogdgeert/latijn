@@ -2,7 +2,7 @@
     import FlashCard from "./lib/FlashCard.svelte";
 
     // Define flash cards data structure
-    const flashCards = [
+    const flashCards: { id: number; question: string; answer: string }[] = [
         // 3A
         //{ id: 1, question: "Troianus", answer: "Trojaan" },
         //{ id: 2, question: "est", answer: "is" },
@@ -534,16 +534,16 @@
         //{ id: 325, question: "nemo", answer: "niemand" },
 
         //// XIII
-        //{ id: 326, question: "pro +abl", answer: "voor" },
-        //{ id: 327, question: "quia", answer: "omdat" },
-        //{ id: 328, question: "quod", answer: "omdat" },
-        //{ id: 329, question: "nisi", answer: "als niet" },
-        //{ id: 330, question: "dum", answer: "terwijl" },
-        //{ id: 331, question: "si", answer: "als" },
-        //{ id: 332, question: "postquam", answer: "nadat" },
-        //{ id: 333, question: "iste, ista, istud", answer: "hij zij het" },
-        //{ id: 334, question: "sicut", answer: "zoals" },
-        //{ id: 335, question: "qui, quae, quod", answer: "die dat wie" },
+        { id: 326, question: "pro +abl", answer: "voor" },
+        { id: 327, question: "quia", answer: "omdat" },
+        { id: 328, question: "quod", answer: "omdat" },
+        { id: 329, question: "nisi", answer: "als niet" },
+        { id: 330, question: "dum", answer: "terwijl" },
+        { id: 331, question: "si", answer: "als" },
+        { id: 332, question: "postquam", answer: "nadat" },
+        { id: 333, question: "iste, ista, istud", answer: "hij zij het" },
+        { id: 334, question: "sicut", answer: "zoals" },
+        { id: 335, question: "qui, quae, quod", answer: "die dat wie" },
 
         //// XIV
         //{ id: 338, question: "licet mihi", answer: "het is mij toegestaan" },
@@ -701,7 +701,21 @@
         //{ id: 465, question: "annus", answer: "jaar" },
 
         //// XXVIII
-        
+        //{ id: 466, question: "nondum", answer: "nog niet" },
+        //{ id: 467, question: "itaque", answer: "dus" },
+        //{ id: 468, question: "equus", answer: "paard" },
+        //{ id: 469, question: "clam", answer: "in het geheim" },
+        //{ id: 470, question: "ora", answer: "kust" },
+        //{ id: 471, question: "navigare", answer: "varen" },
+        //{ id: 472, question: "murus", answer: "muur" },
+        //{ id: 473, question: "castra", answer: "legerkamp" },
+        //{ id: 474, question: "aperire", answer: "openen" },
+        //{ id: 475, question: "flamma", answer: "vlam" },
+
+        ];
+
+    // Create a shuffled version of the flashcards
+    let shuffledCards: { id: number; question: string; answer: string }[] = [];
 
     // Fisher-Yates shuffle algorithm function
     function shuffleArray(array: any) {
@@ -731,21 +745,6 @@
     // Function to go to the next card
     function nextCard() {
         if (currentCardIndex < shuffledCards.length - 1) {
-        //{ id: 466, question: "nondum", answer: "nog niet" },
-        //{ id: 467, question: "itaque", answer: "dus" },
-        //{ id: 468, question: "equus", answer: "paard" },
-        //{ id: 469, question: "clam", answer: "in het geheim" },
-        //{ id: 470, question: "ora", answer: "kust" },
-        //{ id: 471, question: "navigare", answer: "varen" },
-        //{ id: 472, question: "murus", answer: "muur" },
-        //{ id: 473, question: "castra", answer: "legerkamp" },
-        //{ id: 474, question: "aperire", answer: "openen" },
-        //{ id: 475, question: "flamma", answer: "vlam" },
-
-        ];
-
-    // Create a shuffled version of the flashcards
-    let shuffledCards = [];
             currentCardIndex++;
         }
     }
