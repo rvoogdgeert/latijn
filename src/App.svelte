@@ -437,17 +437,17 @@
         //{ id: 244, question: "posse", answer: "kunnen" },
         //{ id: 245, question: "caput", answer: "hoofd" },
 
-        //// V
-        //{ id: 246, question: "vocare", answer: "roepen" },
-        //{ id: 247, question: "venire", answer: "komen" },
-        ////{ id: 248, question: "-ne", answer: "achtervoegsel voorzin" },
-        //{ id: 249, question: "quis", answer: "wie" },
-        //{ id: 250, question: "vos", answer: "jullie" },
-        //{ id: 251, question: "is, ea, id", answer: "die deze" },
-        //{ id: 252, question: "tu", answer: "jij" },
-        //{ id: 253, question: "ego", answer: "ik" },
-        //{ id: 254, question: "homo", answer: "man" },
-        //{ id: 255, question: "vir", answer: "man" },
+        // V
+        { id: 246, question: "vocare", answer: "roepen" },
+        { id: 247, question: "venire", answer: "komen" },
+        //{ id: 248, question: "-ne", answer: "achtervoegsel voorzin" },
+        { id: 249, question: "quis", answer: "wie" },
+        { id: 250, question: "vos", answer: "jullie" },
+        { id: 251, question: "is, ea, id", answer: "die deze" },
+        { id: 252, question: "tu", answer: "jij" },
+        { id: 253, question: "ego", answer: "ik" },
+        { id: 254, question: "homo", answer: "man" },
+        { id: 255, question: "vir", answer: "man" },
       
         //// VI
         //{ id: 256, question: "filius", answer: "zoon" },
