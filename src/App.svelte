@@ -546,14 +546,14 @@
         //{ id: 335, question: "qui, quae, quod", answer: "die dat wie" },
 
         //// XIV
-        { id: 338, question: "licet mihi", answer: "het is mij toegestaan" },
-        { id: 339, question: "sub", answer: "onder" },
-        { id: 340, question: "pauci", answer: "weinig" },
-        { id: 341, question: "vivere", answer: "leven" },
-        { id: 342, question: "agere", answer: "brengen" },
-        { id: 343, question: "mittere", answer: "sturen" },
-        { id: 344, question: "vel", answer: "of" },
-        { id: 345, question: "ne", answer: "niet" },
+        //{ id: 338, question: "licet mihi", answer: "het is mij toegestaan" },
+        //{ id: 339, question: "sub", answer: "onder" },
+        //{ id: 340, question: "pauci", answer: "weinig" },
+        //{ id: 341, question: "vivere", answer: "leven" },
+        //{ id: 342, question: "agere", answer: "brengen" },
+        //{ id: 343, question: "mittere", answer: "sturen" },
+        //{ id: 344, question: "vel", answer: "of" },
+        //{ id: 345, question: "ne", answer: "niet" },
         
 
         //// XV
