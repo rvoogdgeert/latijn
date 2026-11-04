@@ -545,15 +545,15 @@
         //{ id: 334, question: "sicut", answer: "zoals" },
         //{ id: 335, question: "qui, quae, quod", answer: "die dat wie" },
 
-        // XIV
-        { id: 338, question: "licet mihi", answer: "het is mij toegestaan" },
-        { id: 339, question: "sub", answer: "onder" },
-        { id: 340, question: "pauci", answer: "weinig" },
-        { id: 341, question: "vivere", answer: "leven" },
-        { id: 342, question: "agere", answer: "brengen" },
-        { id: 343, question: "mittere", answer: "sturen" },
-        { id: 344, question: "vel", answer: "of" },
-        { id: 345, question: "ne", answer: "niet" },
+        //// XIV
+        //{ id: 338, question: "licet mihi", answer: "het is mij toegestaan" },
+        //{ id: 339, question: "sub", answer: "onder" },
+        //{ id: 340, question: "pauci", answer: "weinig" },
+        //{ id: 341, question: "vivere", answer: "leven" },
+        //{ id: 342, question: "agere", answer: "brengen" },
+        //{ id: 343, question: "mittere", answer: "sturen" },
+        //{ id: 344, question: "vel", answer: "of" },
+        //{ id: 345, question: "ne", answer: "niet" },
         
 
         //// XV
@@ -689,16 +689,16 @@
         //{ id: 455, question: "memoria", answer: "herinnering" },
 
         //// XXVI
-        //{ id: 456, question: "carmen", answer: "lied" },
-        //{ id: 457, question: "lumen", answer: "licht" },
-        //{ id: 458, question: "bibere", answer: "drinken" },
-        //{ id: 459, question: "sermo", answer: "gesprek" },
-        //{ id: 460, question: "postremo", answer: "tenslotte" },
-        //{ id: 461, question: "oculus", answer: "oog" },
-        //{ id: 462, question: "incipere", answer: "beginnen" },
-        //{ id: 463, question: "dolor", answer: "verdriet" },
-        //{ id: 464, question: "vix", answer: "bijna niet" },
-        //{ id: 465, question: "annus", answer: "jaar" },
+        { id: 456, question: "carmen", answer: "lied" },
+        { id: 457, question: "lumen", answer: "licht" },
+        { id: 458, question: "bibere", answer: "drinken" },
+        { id: 459, question: "sermo", answer: "gesprek" },
+        { id: 460, question: "postremo", answer: "tenslotte" },
+        { id: 461, question: "oculus", answer: "oog" },
+        { id: 462, question: "incipere", answer: "beginnen" },
+        { id: 463, question: "dolor", answer: "verdriet" },
+        { id: 464, question: "vix", answer: "bijna niet" },
+        { id: 465, question: "annus", answer: "jaar" },
 
         //// XXVIII
         //{ id: 466, question: "nondum", answer: "nog niet" },
