@@ -580,17 +580,17 @@
         //{ id: 371, question: "filia", answer: "dochter" },
         //{ id: 372, question: "corpus", answer: "lichaam" },
 
-        //// XVII
-        //{ id: 373, question: "gladius", answer: "zwaard" },
-        //{ id: 374, question: "vita", answer: "het leven" },
-        //{ id: 375, question: "ara", answer: "altaar" },
-        //{ id: 346, question: "tempus", answer: "tijd" },
-        //{ id: 347, question: "narrare", answer: "vertellen" },
-        //{ id: 348, question: "fatum", answer: "lot" },
-        //{ id: 349, question: "pugna", answer: "gevecht" },
-        //{ id: 350, question: "hostis", answer: "vijand" },
-        //{ id: 351, question: "altus", answer: "hoog" },
-        //{ id: 352, question: "coniunx", answer: "echtgenoot" },
+        // XVII
+        { id: 373, question: "gladius", answer: "zwaard" },
+        { id: 374, question: "vita", answer: "het leven" },
+        { id: 375, question: "ara", answer: "altaar" },
+        { id: 346, question: "tempus", answer: "tijd" },
+        { id: 347, question: "narrare", answer: "vertellen" },
+        { id: 348, question: "fatum", answer: "lot" },
+        { id: 349, question: "pugna", answer: "gevecht" },
+        { id: 350, question: "hostis", answer: "vijand" },
+        { id: 351, question: "altus", answer: "hoog" },
+        { id: 352, question: "coniunx", answer: "echtgenoot" },
 
         ////// XVIII
         //{ id: 376, question: "vulnus", answer: "wond" },
@@ -688,17 +688,17 @@
         //{ id: 454, question: "vinum", answer: "wijn" },
         //{ id: 455, question: "memoria", answer: "herinnering" },
 
-        //// XXVI
-        { id: 456, question: "carmen", answer: "lied" },
-        { id: 457, question: "lumen", answer: "licht" },
-        { id: 458, question: "bibere", answer: "drinken" },
-        { id: 459, question: "sermo", answer: "gesprek" },
-        { id: 460, question: "postremo", answer: "tenslotte" },
-        { id: 461, question: "oculus", answer: "oog" },
-        { id: 462, question: "incipere", answer: "beginnen" },
-        { id: 463, question: "dolor", answer: "verdriet" },
-        { id: 464, question: "vix", answer: "bijna niet" },
-        { id: 465, question: "annus", answer: "jaar" },
+        ////// XXVI
+        //{ id: 456, question: "carmen", answer: "lied" },
+        //{ id: 457, question: "lumen", answer: "licht" },
+        //{ id: 458, question: "bibere", answer: "drinken" },
+        //{ id: 459, question: "sermo", answer: "gesprek" },
+        //{ id: 460, question: "postremo", answer: "tenslotte" },
+        //{ id: 461, question: "oculus", answer: "oog" },
+        //{ id: 462, question: "incipere", answer: "beginnen" },
+        //{ id: 463, question: "dolor", answer: "verdriet" },
+        //{ id: 464, question: "vix", answer: "bijna niet" },
+        //{ id: 465, question: "annus", answer: "jaar" },
 
         //// XXVIII
         //{ id: 466, question: "nondum", answer: "nog niet" },
