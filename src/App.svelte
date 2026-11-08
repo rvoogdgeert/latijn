@@ -509,17 +509,17 @@
         //{ id: 304, question: "suus", answer: "zijn" },
         //{ id: 305, question: "noster", answer: "ons onze" },
 
-        // XI
-        { id: 306, question: "nullus", answer: "geen" },
-        { id: 307, question: "hic, haec, hoc", answer: "hij"},
-        { id: 308, question: "vester", answer: "jullie" },
-        { id: 309, question: "longus", answer: "lang" },
-        { id: 310, question: "vale", answer: "vaarwel" },
-        { id: 311, question: "solus", answer: "alleen" },
-        { id: 312, question: "tuus", answer: "jouw" },
-        { id: 313, question: "adhuc", answer: "nog" },
-        { id: 314, question: "num", answer: "toch zeker niet" },
-        { id: 315, question: "semper", answer: "altijd" },
+        //// XI
+        //{ id: 306, question: "nullus", answer: "geen" },
+        //{ id: 307, question: "hic, haec, hoc", answer: "hij"},
+        //{ id: 308, question: "vester", answer: "jullie" },
+        //{ id: 309, question: "longus", answer: "lang" },
+        //{ id: 310, question: "vale", answer: "vaarwel" },
+        //{ id: 311, question: "solus", answer: "alleen" },
+        //{ id: 312, question: "tuus", answer: "jouw" },
+        //{ id: 313, question: "adhuc", answer: "nog" },
+        //{ id: 314, question: "num", answer: "toch zeker niet" },
+        //{ id: 315, question: "semper", answer: "altijd" },
      
         //// XII
         //{ id: 316, question: "duo", answer: "twee" },
@@ -592,17 +592,17 @@
         //{ id: 351, question: "altus", answer: "hoog" },
         //{ id: 352, question: "coniunx", answer: "echtgenoot" },
 
-        ////// XVIII
-        //{ id: 376, question: "vulnus", answer: "wond" },
-        //{ id: 377, question: "pes", answer: "voet" },
-        //{ id: 378, question: "rex", answer: "koning" },
-        //{ id: 379, question: "trahere", answer: "trekken" },
-        //{ id: 380, question: "nomen", answer: "naam" },
-        //{ id: 381, question: "laetus", answer: "blij" },
-        //{ id: 382, question: "aedificare", answer: "bouwen" },
-        //{ id: 383, question: "accipere", answer: "aannemen" },
-        //{ id: 384, question: "animus", answer: "geest" },
-        //{ id: 385, question: "adire", answer: "gaan naar" },
+        //// XVIII
+        { id: 376, question: "vulnus", answer: "wond" },
+        { id: 377, question: "pes", answer: "voet" },
+        { id: 378, question: "rex", answer: "koning" },
+        { id: 379, question: "trahere", answer: "trekken" },
+        { id: 380, question: "nomen", answer: "naam" },
+        { id: 381, question: "laetus", answer: "blij" },
+        { id: 382, question: "aedificare", answer: "bouwen" },
+        { id: 383, question: "accipere", answer: "aannemen" },
+        { id: 384, question: "animus", answer: "geest" },
+        { id: 385, question: "adire", answer: "gaan naar" },
 
         //// XIX
         //{ id: 386, question: "cena", answer: "maaltijd" },
