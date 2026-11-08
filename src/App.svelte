@@ -509,17 +509,17 @@
         //{ id: 304, question: "suus", answer: "zijn" },
         //{ id: 305, question: "noster", answer: "ons onze" },
 
-        //// XI
-        //{ id: 306, question: "nullus", answer: "geen" },
-        //{ id: 307, question: "hic, haec, hoc", answer: "hij"},
-        //{ id: 308, question: "vester", answer: "jullie" },
-        //{ id: 309, question: "longus", answer: "lang" },
-        //{ id: 310, question: "vale", answer: "vaarwel" },
-        //{ id: 311, question: "solus", answer: "alleen" },
-        //{ id: 312, question: "tuus", answer: "jouw" },
-        //{ id: 313, question: "adhuc", answer: "nog" },
-        //{ id: 314, question: "num", answer: "toch zeker niet" },
-        //{ id: 315, question: "semper", answer: "altijd" },
+        // XI
+        { id: 306, question: "nullus", answer: "geen" },
+        { id: 307, question: "hic, haec, hoc", answer: "hij"},
+        { id: 308, question: "vester", answer: "jullie" },
+        { id: 309, question: "longus", answer: "lang" },
+        { id: 310, question: "vale", answer: "vaarwel" },
+        { id: 311, question: "solus", answer: "alleen" },
+        { id: 312, question: "tuus", answer: "jouw" },
+        { id: 313, question: "adhuc", answer: "nog" },
+        { id: 314, question: "num", answer: "toch zeker niet" },
+        { id: 315, question: "semper", answer: "altijd" },
      
         //// XII
         //{ id: 316, question: "duo", answer: "twee" },
@@ -580,17 +580,17 @@
         //{ id: 371, question: "filia", answer: "dochter" },
         //{ id: 372, question: "corpus", answer: "lichaam" },
 
-        // XVII
-        { id: 373, question: "gladius", answer: "zwaard" },
-        { id: 374, question: "vita", answer: "het leven" },
-        { id: 375, question: "ara", answer: "altaar" },
-        { id: 346, question: "tempus", answer: "tijd" },
-        { id: 347, question: "narrare", answer: "vertellen" },
-        { id: 348, question: "fatum", answer: "lot" },
-        { id: 349, question: "pugna", answer: "gevecht" },
-        { id: 350, question: "hostis", answer: "vijand" },
-        { id: 351, question: "altus", answer: "hoog" },
-        { id: 352, question: "coniunx", answer: "echtgenoot" },
+        //// XVII
+        //{ id: 373, question: "gladius", answer: "zwaard" },
+        //{ id: 374, question: "vita", answer: "het leven" },
+        //{ id: 375, question: "ara", answer: "altaar" },
+        //{ id: 346, question: "tempus", answer: "tijd" },
+        //{ id: 347, question: "narrare", answer: "vertellen" },
+        //{ id: 348, question: "fatum", answer: "lot" },
+        //{ id: 349, question: "pugna", answer: "gevecht" },
+        //{ id: 350, question: "hostis", answer: "vijand" },
+        //{ id: 351, question: "altus", answer: "hoog" },
+        //{ id: 352, question: "coniunx", answer: "echtgenoot" },
 
         ////// XVIII
         //{ id: 376, question: "vulnus", answer: "wond" },
