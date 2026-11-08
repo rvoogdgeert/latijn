@@ -52,7 +52,7 @@
                 placeholder="Type jouw antwoord hier…"
                 on:keydown={(e) => e.key === "Enter" && checkAnswer()}
             />
-            <button on:click={checkAnswer}>Submit</button>
+            <button on:click={checkAnswer}>Controleer</button>
         </div>
 
         {#if showFeedback}

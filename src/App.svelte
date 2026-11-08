@@ -737,11 +737,12 @@
     // Keep track of the current card index
     let currentCardIndex = 0;
 
-    // State for tracking points system
+    // State for tracking points system and test progress
     let points = 0;
     let attempted = 0;
+    let incorrectCards: { id: number; question: string; answer: string }[] = [];
+    let isTestCompleted = false;
 
-    // Function to go to the next card
     // Function to go to the next card
     function nextCard() {
         if (currentCardIndex < shuffledCards.length - 1) {
@@ -755,30 +756,59 @@
             currentCardIndex--;
         }
     }
+
     // Function to update points when an answer is submitted
     function handleAnswerSubmit(event: any) {
         const isCorrect = event.detail.isCorrect;
+        const currentCard = shuffledCards[currentCardIndex];
         attempted++;
 
         if (isCorrect) {
             points++; // Add 1 point for correct answer
 
-            // Set a 2-second delay for correct answers before moving to the next card
-            if (currentCardIndex < shuffledCards.length - 1) {
-                setTimeout(() => {
+            // Set a 2-second delay for correct answers before moving to the next card or finishing
+            setTimeout(() => {
+                if (currentCardIndex < shuffledCards.length - 1) {
                     nextCard();
-                }, 2000);
-            }
+                } else {
+                    isTestCompleted = true;
+                }
+            }, 2000);
         } else {
-            // No point deduction for incorrect answers
-
-            // Set a 5-second delay for incorrect answers before moving to the next card
-            if (currentCardIndex < shuffledCards.length - 1) {
-                setTimeout(() => {
-                    nextCard();
-                }, 5000);
+            // Track incorrectly answered card (avoiding duplicates)
+            if (!incorrectCards.some((card) => card.id === currentCard.id)) {
+                incorrectCards = [...incorrectCards, currentCard];
             }
+
+            // Set a 5-second delay for incorrect answers before moving to the next card or finishing
+            setTimeout(() => {
+                if (currentCardIndex < shuffledCards.length - 1) {
+                    nextCard();
+                } else {
+                    isTestCompleted = true;
+                }
+            }, 5000);
         }
+    }
+
+    // Option 1: Repeat only the incorrectly answered words
+    function repeatIncorrectCards() {
+        shuffledCards = shuffleArray(incorrectCards);
+        incorrectCards = [];
+        currentCardIndex = 0;
+        points = 0;
+        attempted = 0;
+        isTestCompleted = false;
+    }
+
+    // Option 2: Retake the entire test
+    function retakeFullTest() {
+        shuffledCards = shuffleArray(flashCards);
+        incorrectCards = [];
+        currentCardIndex = 0;
+        points = 0;
+        attempted = 0;
+        isTestCompleted = false;
     }
 </script>
 
@@ -787,29 +817,49 @@
         <h1>Flash Cards Latijn</h1>
 
         <div class="score-container">
-            <p>Points: {points} (Attempted: {attempted})</p>
+            <p>Punten: {points} (Geprobeerd: {attempted})</p>
         </div>
 
-        <div class="card-container">
-            <FlashCard
-                flashCard={shuffledCards[currentCardIndex]}
-                on:answerSubmitted={handleAnswerSubmit}
-            />
-        </div>
+        {#if !isTestCompleted}
+            <div class="card-container">
+                <FlashCard
+                    flashCard={shuffledCards[currentCardIndex]}
+                    on:answerSubmitted={handleAnswerSubmit}
+                />
+            </div>
 
-        <div class="navigation">
-            <button on:click={prevCard} disabled={currentCardIndex === 0}
-                >Previous</button
-            >
-            <span class="card-counter"
-                >{currentCardIndex + 1} / {shuffledCards.length}</span
-            >
-            <button
-                on:click={nextCard}
-                disabled={currentCardIndex === shuffledCards.length - 1}
-                >Next</button
-            >
-        </div>
+            <div class="navigation">
+                <button on:click={prevCard} disabled={currentCardIndex === 0}
+                    >Vorige</button
+                >
+                <span class="card-counter"
+                    >{currentCardIndex + 1} / {shuffledCards.length}</span
+                >
+                <button
+                    on:click={nextCard}
+                    disabled={currentCardIndex === shuffledCards.length - 1}
+                    >Volgende</button
+                >
+            </div>
+        {:else}
+            <div class="end-screen">
+                <h2>Toets afgerond! 🎉</h2>
+                <p>
+                    Je hebt {points} van de {shuffledCards.length} woorden goed beantwoord.
+                </p>
+
+                <div class="end-options">
+                    {#if incorrectCards.length > 0}
+                        <button on:click={repeatIncorrectCards}>
+                            Foute woorden herhalen ({incorrectCards.length})
+                        </button>
+                    {/if}
+                    <button on:click={retakeFullTest}>
+                        Hele toets opnieuw maken
+                    </button>
+                </div>
+            </div>
+        {/if}
     </div>
 </main>
 
@@ -906,5 +956,33 @@
         background-color: rgba(156, 62, 0, 0.1);
         padding: 4px 10px;
         border-radius: 4px;
+    }
+
+    .end-screen {
+        width: 100%;
+        text-align: center;
+        padding: 25px;
+        background-color: rgba(0, 147, 156, 0.05);
+        border-radius: 10px;
+        border: 2px solid #10abb4;
+        box-sizing: border-box;
+    }
+
+    .end-screen h2 {
+        color: #004c50;
+        margin-top: 0;
+        margin-bottom: 12px;
+    }
+
+    .end-screen p {
+        font-size: 1.1rem;
+        margin-bottom: 24px;
+    }
+
+    .end-options {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 12px;
     }
 </style>
