@@ -507,7 +507,7 @@
         { id: 302, question: "hic", answer: "hier" },
         { id: 303, question: "ipse, ipsa, ipsum", answer: "zelf" },
         { id: 304, question: "suus", answer: "zijn" },
-        { id: 305, question: "noster", answer: "ons onze" },
+        { id: 305, question: "noster", answer: "ons" },
 
         // XI
         { id: 306, question: "nullus", answer: "geen" },
@@ -518,7 +518,7 @@
         { id: 311, question: "solus", answer: "alleen" },
         { id: 312, question: "tuus", answer: "jouw" },
         { id: 313, question: "adhuc", answer: "nog" },
-        { id: 314, question: "num", answer: "toch zeker niet" },
+        { id: 314, question: "num", answer: "toch" },
         { id: 315, question: "semper", answer: "altijd" },
      
         // XII
